@@ -14,6 +14,34 @@
                             <PropertyValue Property="Value" Path="BusinessPartnerID"/>
                             <PropertyValue Property="Label" String="Business.partner ID"/>
                         </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Value" Path="Address"/>
+                            <PropertyValue Property="Label" String="Address"/>
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Value" Path="BusinessPartnerRole"/>
+                            <PropertyValue Property="Label" String="BusinessPartnerRole"/>
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Value" Path="ChangedAt"/>
+                            <PropertyValue Property="Label" String="ChangedAt"/>
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Value" Path="CompanyName"/>
+                            <PropertyValue Property="Label" String="CompanyName"/>
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Value" Path="CreatedAt"/>
+                            <PropertyValue Property="Label" String="CreatedAt"/>
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Value" Path="EmailAddress"/>
+                            <PropertyValue Property="Label" String="EmailAddress"/>
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Value" Path="WebAddress"/>
+                            <PropertyValue Property="Label" String="WebAddress"/>
+                        </Record>
                     </Collection>
                 </Annotation>
             </Annotations>
