@@ -12,7 +12,7 @@
                     <Collection>
                         <Record Type="UI.DataField">
                             <PropertyValue Property="Value" Path="BusinessPartnerID"/>
-                            <PropertyValue Property="Label" String="Bus.partner ID"/>
+                            <PropertyValue Property="Label" String="Business.partner ID"/>
                         </Record>
                     </Collection>
                 </Annotation>
