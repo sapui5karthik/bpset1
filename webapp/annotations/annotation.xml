@@ -22,17 +22,18 @@
                             <PropertyValue Property="Value" Path="BusinessPartnerRole"/>
                             <PropertyValue Property="Label" String="BusinessPartnerRole"/>
                         </Record>
-                        <Record Type="UI.DataField">
-                            <PropertyValue Property="Value" Path="ChangedAt"/>
-                            <PropertyValue Property="Label" String="ChangedAt"/>
-                        </Record>
+                      
                         <Record Type="UI.DataField">
                             <PropertyValue Property="Value" Path="CompanyName"/>
                             <PropertyValue Property="Label" String="CompanyName"/>
                         </Record>
                         <Record Type="UI.DataField">
                             <PropertyValue Property="Value" Path="CreatedAt"/>
-                            <PropertyValue Property="Label" String="CreatedAt"/>
+                            <PropertyValue Property="Label" String="Date Created"/>
+                        </Record>
+                          <Record Type="UI.DataField">
+                            <PropertyValue Property="Value" Path="ChangedAt"/>
+                            <PropertyValue Property="Label" String="Date Changed"/>
                         </Record>
                         <Record Type="UI.DataField">
                             <PropertyValue Property="Value" Path="EmailAddress"/>
